@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding="UTF-8"?> 
+<authors>  
+    <author>  
+        <firstName>Kirill</firstName> 
+        <lastname>Bolvako</lastname>    
+    </author> 
+    <author>  
+        <firstName>Maxim</firstName> 
+        <lastname>Trifonov</lastname>    
+    </author> 
+    <author>  
+        <firstName>Andrey</firstName> 
+        <lastname>Sosed</lastname>    
+    </author> 
+    <author>  
+        <firstName>Denis</firstName> 
+        <lastname>Stolyarov</lastname>    
+    </author> 
+</authors> 
